@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Review of DISOBEDIENT ELECTRONICS and AMT
-subtitle: Each post also has a subtitle
+subtitle: Self-Publishing in Media Studies
 gh-repo: daattali/beautiful-jekyll
 gh-badge:
   - star

@@ -24,7 +24,7 @@ description: Nineteenth-Century Studies, William Blake, Media Archaeology, Steam
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  CV: "/master/WhitsonCV.pdf"
+  CV: "https://github.com/rogerwhitson/documents/blob/master/WhitsonCV.pdf"
   Teaching: "Teaching"
   Research: "Research"
 
